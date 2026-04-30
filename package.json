@@ -1,5 +1,5 @@
 {
-	"homepage": "https://our-maydays.github.io/guestsnap",
+  "homepage": "https://our-maydays.github.io/guestsnap",
   "name": "guestsnap",
   "private": true,
   "version": "0.0.0",
@@ -9,7 +9,7 @@
     "build": "sed -i '.old' \"s/^VITE_BUILD_TIME=.*/VITE_BUILD_TIME=\\\"$(date '+%y%m%d %H:%M')\\\"/\" .env && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-		"deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "dotenv": "^17.2.3",
