@@ -134,7 +134,6 @@ img, video {
 	user-select: none;
 	-webkit-user-select: none;
 	-ms-user-select: none;
-	animation: mainFrameFadeIn 2.5s ease-in-out 2.5s both;
 }
 
 @keyframes mainFrameFadeIn {

@@ -4,7 +4,7 @@ import Space from './Space'
 
 const sectionHeight = 6
 const sectionDivide = 3
-const photoUrl = `${import.meta.env.BASE_URL}image/guestsnapphoto.jpg`
+const photoUrl = `${import.meta.env.BASE_URL}image/weddinglocation.png`
 
 const GuestSnap = () => {
 
@@ -18,13 +18,11 @@ const GuestSnap = () => {
 		
 		<div className='content-box'>
 
-			<Space height={`${sectionHeight}rem`}/>
-
 			<div className='image-container'>
 				<img src={photoUrl}/>
 			</div>
 
-			<Space height={`${sectionHeight}rem`}/>
+			<Space height={`${sectionDivide}rem`}/>
 			
 			<div className='section-subtitle'> GUEST SNAP </div>
 			<div className='section-title'> 게스트스냅 </div>

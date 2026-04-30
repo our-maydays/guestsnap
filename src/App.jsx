@@ -12,9 +12,9 @@ function App() {
 			
 			<div className='main-frame'>
 
-					<Intersect className='fade-in'>
+				<Intersect className='fade-in'>
 						<GuestSnap/>
-					</Intersect>
+				</Intersect>
 			</div>
 		</div>
  )
