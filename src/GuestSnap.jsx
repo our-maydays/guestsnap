@@ -48,7 +48,7 @@ const GuestSnap = () => {
 					사진 업로드
 			</div>
 
-			<Space hegith={'0.5rem'}/>
+			<Space height={'0.5rem'}/>
 
 			<div style={{color:'gray', fontSize:'1.2rem'}}>
 				업로드 기한: 26/5/11 23:59까지
