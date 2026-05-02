@@ -55,6 +55,7 @@ const GuestSnap = () => {
 
 		
 			<Space height={`${sectionHeight}rem`}/>
+			<Space height={`${sectionHeight}rem`}/>
 
 			<div className='section-subtitle'> PROGRAM </div>
 			<div className='section-title'> 식순 </div>
