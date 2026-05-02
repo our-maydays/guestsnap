@@ -56,33 +56,6 @@ const GuestSnap = () => {
 		
 			<Space height={`${sectionHeight}rem`}/>
 
-			<div className='section-subtitle'> PROGRAM </div>
-			<div className='section-title'> 식순 </div>
-
-			<Space height={`${sectionDivide}rem`}/>
-
-			<div className='program-container'>
-
-				<span className='program-content'>개식사 </span>
-				<span className='program-sub'> 사회자 박희수</span><br/>
-				<span className='program-content'>양가 부모님 입장</span><br/>
-				<span className='program-content'>화촉점화</span><br/>
-				<br/>
-				<span className='program-content'>신랑신부 입장</span><br/>
-				<span className='program-content'>혼인 서약 & 성혼 선언</span><br/>
-				<span className='program-content'>축사 </span>
-				<span className='program-sub'>이선영</span><br/>
-				<span className='program-content'>축가 </span>
-				<span className='program-sub'>슬이생밴드 (나상현씨밴드_축제)</span><br/>
-				<br/>
-				<span className='program-content'>경품 추첨</span><br/>
-				<span className='program-content'>신랑신부 행진</span><br/>
-
-			</div>
-
-			<Space height={`${sectionHeight}rem`}/>
-
-
 		</div>	
 	)
 }

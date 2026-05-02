@@ -32,3 +32,19 @@
 	display: block;
 }
 
+.program-container {
+	width: 70%;
+	margin: 0 auto;
+	line-height: 3rem;
+	text-align: left;
+}
+
+.program-content {
+	-webkit-text-stroke: 0.3px;
+	font-size: 1.8rem;
+}
+
+.program-sub {
+	font-size: 1.5rem;
+color: gray;
+}
